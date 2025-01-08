@@ -7,3 +7,4 @@ bugfix1
 newfeature1
 newfeature2
 newfeature4
+new feature4
