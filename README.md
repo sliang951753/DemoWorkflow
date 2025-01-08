@@ -6,3 +6,4 @@ hotfix3
 bugfix1
 newfeature1
 newfeature2
+newfeature4
